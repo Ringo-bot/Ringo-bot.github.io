@@ -1,1 +1,1 @@
-# Ringo-bot.github.io
+# ringo-bot.github.io
